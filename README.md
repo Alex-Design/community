@@ -1,3 +1,5 @@
+![Devcord](http://i.imgur.com/4G81sCs.jpg)
+
 # Welcome to Devcord
 
 * **What is Devcord?**
