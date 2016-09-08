@@ -38,11 +38,23 @@ We will add a more specific commandlist later
 
 ### Roles
 
-We will add a more specific rolelist later
+| Role | Description |
+|------|-------------|
+| Junior | Fresh webdevelopers |
+| Junior Frontend | Doing frontend.. but not for so long |
+| Junior Backend | Fiddling with Servers since a few weeks |
+| Junior Fullstack | In for everything since the last 2 months |
+| Graphic Designer | Doing creative stuff for developers |
+| UX-Designer | Thinking a lot about where this icon should sit |
+| Backend-Developer | Backend-gods solving problems like italian gangsters |
+| Frontend-Developer | Moving html elements around FTL |
+| Fullstack-Developer | Almost as much knowledge as HAL-9000 |
+| Support | Administrators and Moderators
 
 ### Bots
 
-We will add a more specific botlist later
+* **Devcord** - Currently in development
+* **Mee6** - A few nice features since Devcord is not ready
 
 ### Joining
 
