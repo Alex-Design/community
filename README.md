@@ -53,7 +53,7 @@ We will add a more specific commandlist later
 
 ### Bots
 
-* **Devcord** - Currently in development
+* **Cordlr** - Currently in development
 * **Mee6** - A few nice features since Devcord is not ready
 
 ### Joining
