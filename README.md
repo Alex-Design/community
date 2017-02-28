@@ -36,7 +36,11 @@ Breaking the rules will lead to a warning or ban.
 
 ### Commands
 
-We will add a more specific commandlist later
+| Command | Info | Usage |
+| ------- | ---- | ----- |
+| !joinrole | Joins a server role. If there is a space, use a underscore | `!joinrole Frontend_Developer` or `!joinrole Junior` |
+| !leaverole | Leavs a server role. If there is a space, use a underscore | `!leaverole Frontend_Developer` or `!leaverole Junior` |
+| !roles | Lists all available roles | `!roles` |
 
 ### Roles
 
