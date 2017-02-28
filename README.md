@@ -26,9 +26,11 @@
 * **Development Rules**
   * Please post questions and discussions to the correct channels
     * Frontend Conversations belong to the `#frontend` channel and vice-versa
+  * Stick to the channel rules! Read the channel description so you don't get warned even if you just wanted to be funny, use offtopic channels for the fun! :)
   * If you have questions, please provide your sourcecode or links to codepen
   * Please be friendly and don't spam for feedback
   * Behave like an adult
+  * Please don't ask everyone for them to code your stuff. The community is about learning and discussion, not about getting your code written by someone else.
 
 Breaking the rules will lead to a warning or ban.
 
